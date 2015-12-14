@@ -1,11 +1,13 @@
 ---
-title: About
+title: Tentang
 ---
+Halo.
 
-Hello.
+Yang jadi pertanyaan kenapa anda sampai bisa nyasar di situs ini ? Bentar saya tebak, mungkinkah karena kepo? 
 
-The main purpose of this theme is to be as simple as it could be, so you can focus on writing your stuffs. This is your About page. You may describe about yourself here; who you are, what are you currently doing, share some of your projects, your social links and how people can contact you, etc.
+Saya kebetulan orang yang suka programming, namun bisa dibilang skill saya masih biasa-biasa saja, ga ada yang istimewa. Beberapa bahasa yang saya kurang lebih saya kuasai C#, PHP, dan Javascript. Framework masih Xamarin dan jQuery. 
 
-**Just write thing that matters..**
+Mungkin ada tawaran project atau aplikasi yang perlu sentuhan ♥ dari saya ? Monggo kontak saya via email putuyoga@outlook.com. Atau jika ingin fast response via SMS/Whatsapp di +6281213860487.
 
-Enjoy!
+Mungkin itu aja perkenalan singkat bin ga jelas ini,
+Salam Super!
