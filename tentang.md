@@ -5,7 +5,7 @@ Halo *Stranger*.
 
 Saya penasaran kenapa anda sampai bisa nyasar di situs ini ? :3
 
-Saya akui saya kebanyakan *programming* sampai lupa __pacar__ waktu. Hasilnya ? Ada beberapa bahasa pemrograman yang sedikit saya kuasai antara lain C#, PHP, dan Javascript. 
+Saya akui saya kebanyakan *programming* sampai lupa ~~pacar~~ waktu. Untungnya ada hasilnya, yaitu ada beberapa bahasa pemrograman sedikit saya kuasai antara lain C#, PHP, dan Javascript. 
 
 Selain itu ada beberapa framework maupun library lain yang sudah saya gunakan untuk beberapa project seperti Xamarin, Code Igniter maupun jQuery. 
 
