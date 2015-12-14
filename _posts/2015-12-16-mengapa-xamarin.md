@@ -53,7 +53,7 @@ var mainPage = new TabbedPage { Children = { profilePage, settingsPage } };
 ![gambar xamarin app](https://raw.githubusercontent.com/putuyoga/putuyoga.github.io/c43acbca9998c277ed113bb9aadc4864e67486c7/assets/images/example_xamarin.jpg)
 
 
-##Sederhana ?
+## Sederhana ?
 Gak juga, karena terkadang untuk app yang kompleks dan butuh fitur-fitur kompleks, xamarin menurut saya sendiri kurang cocok. 
 
 **Sekarang gimana menurutmu sendiri?**
