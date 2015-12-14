@@ -21,7 +21,7 @@ Sedikit membahas teknikal, bayangin aja bero kalau kita kudu koding tiap platfor
 
 Cukup beberapa potong kode seperti dibawah:
 
-{% highlight cs %}
+{% highlight csharp %}
 using Xamarin.Forms;
 
 var profilePage = new ContentPage {
