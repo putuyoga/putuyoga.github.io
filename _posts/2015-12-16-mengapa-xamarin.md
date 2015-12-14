@@ -1,6 +1,7 @@
 ---
 title: Mengapa Xamarin?
 updated: 2015-12-16 10:00
+comments: true
 ---
 
 Judul diatas merupakan pertanyaan yang terlontar dari dosen pembimbing saya sewaktu saya melakukan bimbingan skripsi. Jawaban saya sederhana, karena xamarin itu cross-platform dan kebetulan bahasa yang digunakan C#. Lalu beliau bertanya lagi.
