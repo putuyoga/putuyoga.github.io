@@ -11,7 +11,7 @@ Dengan nada diplomatis bak tim marketing dari Xamarin HQ, saya menjawab bahwa de
 
 Saya sedikit trauma dengan performa phone-gap di masa lalu yang lemotnya gak ketulungan di ponsel android jadul saya. Mungkin waktu itu belum banyak pilihan, namun sekarang sepertinya xamarin sudah cukup menjanjikan.
 
-### Judul yang Panjang
+## Judul yang Panjang
 
 Waktu itu saya menggunakan xamarin.forms untuk skripsi saya yang berjudul *rancang bangun aplikasi perangkat bergerak pemantau prakiraan cuaca maritim*. Panjang ? Memang, saya kadang juga lupa sama judul sendiri. wkwk.
 
@@ -52,4 +52,8 @@ var mainPage = new TabbedPage { Children = { profilePage, settingsPage } };
 
 ![gambar xamarin app](https://raw.githubusercontent.com/putuyoga/putuyoga.github.io/c43acbca9998c277ed113bb9aadc4864e67486c7/assets/images/example_xamarin.jpg)
 
-Sederhana ? Gak juga, karena terkadang untuk app yang kompleks dan butuh fitur-fitur kompleks, xamarin menurut saya sendiri kurang cocok. Sekarang gimana menurutmu sendiri?
+
+##Sederhana ?
+Gak juga, karena terkadang untuk app yang kompleks dan butuh fitur-fitur kompleks, xamarin menurut saya sendiri kurang cocok. 
+
+**Sekarang gimana menurutmu sendiri?**
