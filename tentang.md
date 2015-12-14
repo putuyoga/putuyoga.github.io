@@ -5,7 +5,9 @@ Halo *Stranger*.
 
 Saya penasaran kenapa anda sampai bisa nyasar di situs ini ? :3
 
-Saya kebetulan orang yang suka *programming*, namun bisa dibilang skill saya masih biasa-biasa saja, ga ada yang istimewa. Beberapa bahasa yang saya kurang lebih saya kuasai C#, PHP, dan Javascript. Framework untuk sementara masih Xamarin dan jQuery. 
+Banyak yang bilang saya suka *programming*, , ga ada yang istimewa. Beberapa bahasa yang sedikit saya kuasai antara lain C#, PHP, dan Javascript. 
+
+Selain itu ada beberapa framework maupun library lain yang sudah saya gunakan untuk beberapa project seperti Xamarin, Code Igniter maupun jQuery. 
 
 ![do programming](https://raw.githubusercontent.com/putuyoga/putuyoga.github.io/master/assets/images/code_laptop.jpg)
 
