@@ -18,8 +18,38 @@ Waktu itu saya menggunakan xamarin.forms untuk skripsi saya yang berjudul *ranca
 Beruntung sekali Xamarin mempunyai program student, dimana kita bisa mendapatkan lisensi cuma-cuma yang harga normalnya lumayan mahal untuk kantong orang Indonesia.
 
 Sedikit membahas teknikal, bayangin aja bero kalau kita kudu koding tiap platform, apa kagak gempor itu. Cukup dengan kode dibawah kita bisa dapatkan tampilan fungsional yang sama di ketiga sistem operasi (iOS, Android, dan Windows Phone).
-{% highlight ruby %}
-def foo
-  puts 'foo'
-end
+
+Cukup beberapa potong kode seperti dibawah:
+
+{% highlight cs %}
+using Xamarin.Forms;
+
+var profilePage = new ContentPage {
+    Title = "Profile",
+    Icon = "Profile.png",
+    Content = new StackLayout {
+        Spacing = 20, Padding = 50,
+        VerticalOptions = LayoutOptions.Center,
+        Children = {
+            new Entry { Placeholder = "Username" },
+            new Entry { Placeholder = "Password", IsPassword = true },
+            new Button {
+                Text = "Login",
+                TextColor = Color.White,
+                BackgroundColor = Color.FromHex("77D065") }}}
+};
+
+var settingsPage = new ContentPage {
+    Title = "Settings",
+    Icon = "Settings.png",
+    (...)
+};
+
+var mainPage = new TabbedPage { Children = { profilePage, settingsPage } };
 {% endhighlight %}
+
+... dan selanjutnya anda bisa mempunyai tampilan fungsional yang sama di ketiga sistem operasi seperti dibawah.
+
+![gambar xamarin app](https://raw.githubusercontent.com/putuyoga/putuyoga.github.io/c43acbca9998c277ed113bb9aadc4864e67486c7/assets/images/example_xamarin.jpg)
+
+Sederhana ? Gak juga, karena terkadang untuk app yang kompleks dan butuh fitur-fitur kompleks, xamarin menurut saya sendiri kurang cocok. Sekarang gimana menurutmu sendiri?
