@@ -19,7 +19,7 @@ Beruntung sekali Xamarin mempunyai program student, dimana kita bisa mendapatkan
 
 Sedikit membahas teknikal, bayangin aja bero kalau kita kudu koding tiap platform, apa kagak gempor itu. Cukup dengan kode dibawah kita bisa dapatkan tampilan fungsional yang sama di ketiga sistem operasi (iOS, Android, dan Windows Phone).
 
-:::python
+{% highlight csharp %}
 using Xamarin.Forms;
 
 var profilePage = new ContentPage {
@@ -44,5 +44,5 @@ var settingsPage = new ContentPage {
 };
 
 var mainPage = new TabbedPage { Children = { profilePage, settingsPage } };
-:::
+{% endhighlight %}
 
