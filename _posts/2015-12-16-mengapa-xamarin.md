@@ -18,31 +18,8 @@ Waktu itu saya menggunakan xamarin.forms untuk skripsi saya yang berjudul *ranca
 Beruntung sekali Xamarin mempunyai program student, dimana kita bisa mendapatkan lisensi cuma-cuma yang harga normalnya lumayan mahal untuk kantong orang Indonesia.
 
 Sedikit membahas teknikal, bayangin aja bero kalau kita kudu koding tiap platform, apa kagak gempor itu. Cukup dengan kode dibawah kita bisa dapatkan tampilan fungsional yang sama di ketiga sistem operasi (iOS, Android, dan Windows Phone).
-
-{% highlight cs %}
-using Xamarin.Forms;
-
-var profilePage = new ContentPage {
-    Title = "Profile",
-    Icon = "Profile.png",
-    Content = new StackLayout {
-        Spacing = 20, Padding = 50,
-        VerticalOptions = LayoutOptions.Center,
-        Children = {
-            new Entry { Placeholder = "Username" },
-            new Entry { Placeholder = "Password", IsPassword = true },
-            new Button {
-                Text = "Login",
-                TextColor = Color.White,
-                BackgroundColor = Color.FromHex("77D065") }}}
-};
-
-var settingsPage = new ContentPage {
-    Title = "Settings",
-    Icon = "Settings.png",
-    (...)
-};
-
-var mainPage = new TabbedPage { Children = { profilePage, settingsPage } };
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
 {% endhighlight %}
-
