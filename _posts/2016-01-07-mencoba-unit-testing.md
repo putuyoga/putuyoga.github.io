@@ -3,19 +3,15 @@ title: Mencoba Unit Testing
 comments: true
 ---
 
-Suatu hari, saya ngeliat postingan yang menggugah saya. Sedikit menampar tepatnya wkakaka.
-
-![karaoke_level_coder.JPG]({{site.baseurl}}/assets/images/karaoke_level_coder.JPG)
-
-Ternyata bahwa ane ini hanyalah karaoke level coder *eh. Seperti kata om norman sebagai sesepuh di dunia software engineering (_technical evangelist microsoft Indonesia coy!_):
+Lupa dapet darimana, teringat sebuah quote yang sedikit menohok berikut.
 
 > Even you can code doesn't mean you are an engineer.
 
+Emang bener, meskipun kamu bisa coding, belum tentu kamu engineer software. engineering gak hanya coding, karena masih banyak unsur lain yang perlu dimasukkan, unit testing, source control dan lain-lain.
+
 ## Unit Testing
 
-... dan lebih baik terlambat daripada tidak sama sekali. Saya pun memutuskan mulai mencoba unit testing. 
-
-Ya, selama ini untuk melakukan testing, saya masih manual, untuk awal-awal karena masih sederhana, mungkin lebih mudah manual. 
+... dan lebih baik terlambat daripada tidak sama sekali. Saya pun memutuskan mulai mencoba unit testing. Ya, selama ini untuk melakukan testing, saya masih manual, untuk awal-awal karena masih sederhana, mungkin lebih mudah manual. 
 
 Tapi kelama-lamaan seiring makin kompleksnya program kita, kita perlu otomatisasi testing, sehingga kita bisa lebih fokus untuk menyelesaikan kebutuhan fungsional dari program.
 
