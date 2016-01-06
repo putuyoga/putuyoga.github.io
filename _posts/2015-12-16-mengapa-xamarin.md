@@ -18,7 +18,7 @@ Waktu itu saya menggunakan xamarin.forms untuk skripsi saya yang berjudul *ranca
 
 Beruntung sekali Xamarin mempunyai program student, dimana kita bisa mendapatkan lisensi cuma-cuma yang harga normalnya lumayan mahal untuk kantong orang Indonesia.
 
-Sedikit membahas teknikal, bayangin aja bero kalau kita kudu koding tiap platform, apa kagak gempor itu. Cukup dengan kode dibawah kita bisa dapatkan tampilan fungsional yang sama di ketiga sistem operasi (iOS, Android, dan Windows Phone).
+Sedikit membahas teknikal, bayangin aja bero kalau kita kudu koding tiap platform, apa kagak gempor itu. Di Xamarin.Forms, cukup dengan kode dibawah kita bisa dapatkan tampilan fungsional yang sama di ketiga sistem operasi (iOS, Android, dan Windows Phone).
 
 Cukup beberapa potong kode seperti dibawah:
 
