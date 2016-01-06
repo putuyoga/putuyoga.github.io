@@ -1,6 +1,6 @@
 ---
 title: Mencoba Unit Testing
-published: true
+comments: true
 ---
 
 Suatu hari, saya ngeliat postingan yang menggugah saya. Sedikit menampar tepatnya wkakaka.
