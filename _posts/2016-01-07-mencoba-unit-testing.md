@@ -19,7 +19,9 @@ Ya, selama ini untuk melakukan testing, saya masih manual, untuk awal-awal karen
 
 Tapi kelama-lamaan seiring makin kompleksnya program kita, kita perlu otomatisasi testing, sehingga kita bisa lebih fokus untuk menyelesaikan kebutuhan fungsional dari program.
 
-Berhubung bahasa pemrograman utama yang saya pakai C# dan menggunakan IDE Visual Studio, saya coba belajar unit testing. Coba bikin class sederhana, kayak dibawah. 
+Berhubung bahasa pemrograman utama yang saya pakai C# dan menggunakan IDE Visual Studio, saya coba belajar unit testing. Serius.
+
+Pertama-tama, coba bikin Class Library Project via menu File > Create Project. Lalu buat class sederhana yang ga ada keren-kerennya, kayak dibawah. 
 
 {% highlight csharp %}
 public class Manusia
@@ -50,7 +52,9 @@ public class Manusia
 }
 {% endhighlight %}
 
-Selanjutnya bikin class test untuk testing class Manusia ini. Ada beberapa yang saya ujikan, yaitu kondisi kondisi yang sudah ditetapkan sebelumnya. Seperti contohnya ketika kerja melebih kalori energi tersimpan, maka properti sakit menjadi true dan energi menjadi 0.
+Udah gitu doang om ? Yoi. Maafkan kemalesan saya. Bikin Unit Test Project (klik Kanan Solution Explorer > Add > New Project), lalu saya coba bikin class class test untuk testing class Manusia ini. 
+
+Ada beberapa yang saya ujikan, yaitu kondisi kondisi yang sudah ditetapkan sebelumnya. Seperti contohnya ketika kerja melebih kalori energi tersimpan, maka properti sakit menjadi true dan energi menjadi 0.
 
 {% highlight csharp %}
 [TestClass]
@@ -97,4 +101,8 @@ public class UnitTest1
 }
 {% endhighlight %}
 
+Selanjutnya buka Test Explorer via menu Test > Windows > Test Explorer. Dan selanjutnya jalankan semua test case yang ada dengan mengklik link 'run all'.  
+
 ![test_unit_example.JPG]({{site.baseurl}}/assets/images/test_unit_example.JPG)
+
+Memang sederhana, namun selanjutnya saya akan coba terapkan di berbagai project saya kedepan untuk memudahkan karena untuk testing saya otomatisasi. Uhuy.
