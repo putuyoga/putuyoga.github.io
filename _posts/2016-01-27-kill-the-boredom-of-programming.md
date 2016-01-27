@@ -3,9 +3,11 @@ title: Kill the Boredom of Programming
 comments: true
 ---
 I remember my first programming is around PHP and JS, not fancy but it is all i can do. 
-Create my own CMS called midCMS or involved around with a lot of people on open source MMORPG engine Devana whics is dead several years ago.
+Create my own CMS called midCMS or involved around with a lot of people on open source MMORPG engine Devana which is dead several years ago.
 
-My junior high school, I get 1 full month holiday, and what i do with that a lot of free time? some peoples may go hiking, or picnic and... i didn't do anything. Just wake up > code > eat > shit > sleep. 
+and... when i am at junior high school, I get 1 full month holiday, and what i do with that a lot of free time? some peoples may go hiking, or picnic and... i didn't do anything. 
+
+> Wake up → code → eat → shit → sleep. Repeat.
 
 I didn't feel boredom. And now with my age up twenty two years old, i can feel the burn of boredom from programming. I need to move forward. I do this things to keep my motivation shiny.
 
@@ -21,4 +23,6 @@ I often read some interesting answers from this site. It give you some perspecti
 Github is the best place for start. Randomly browse some interesting project, and do fork some repos and start hacking the source code!
 
 ## 4. Try something new
-You are a web developer ? Maybe you can try android development. Or you can do something other than programming, like record something and upload it to youtube.
+You are a web developer ? Maybe you can try android development. Or you can do something other than programming, like record something and upload it to youtube. Prank your friend maybe a good idea.
+
+Don't make yourself killed by _burnout-of-programming-syndrome_. I already feel that pain, promise me young man!!
