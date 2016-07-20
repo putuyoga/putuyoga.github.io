@@ -10,4 +10,6 @@ The nice thing is, ASP.NET Core is a new open source and cross platform framewor
 
 I am still trying figure out ASP.NET Core (you know, my last experiences is windows phone and xamarin). I hope by learn this one, it will become a good invesment in the future.
 
+If you want to learn asp.net core too with me, just watch [my repository](http://https://github.com/putuyoga/yoga-core) on github.
+
 Cheers!
