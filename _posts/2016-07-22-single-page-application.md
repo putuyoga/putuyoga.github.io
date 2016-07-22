@@ -14,7 +14,9 @@ There are a lot of JS framework that can help you, like i used today, [AngularJS
 As a programmer who familiar with MVVM and data-binding concept, this framework help me so much. You just define the ViewModel (in angular, we use called `Controller`), you can attach the data model using directive `ng-model`.
 
 below some cool [example](http://www.w3schools.com/angular/tryit.asp?filename=try_ng_module): 
+
 ![the source](https://raw.githubusercontent.com/putuyoga/putuyoga.github.io/master/assets/images/source_code_ng.JPG)
+
 See that? you just update the property, without call any method, the model will be updated seamlessly. I am still trying explore this one. 
 
 You can check [my repository](https://github.com/putuyoga/yoga-core) to follow what i've done so far with AngularJS and ASP.NET Core.
