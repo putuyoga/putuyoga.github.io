@@ -16,19 +16,18 @@ As a programmer who familiar with MVVM and data-binding concept, this framework 
 below some cool [example](http://www.w3schools.com/angular/tryit.asp?filename=try_ng_module): 
 
 ```javascript
-<div ng-app="myApp" ng-controller="myCtrl">
+\<div ng-app="myApp" ng-controller="myCtrl">
 {{ firstName + " " + lastName }}
-</div>
+\</div>
 
-<script>
+\<script>
 var app = angular.module("myApp", []);
 app.controller("myCtrl", function($scope) {
     $scope.firstName = "John";
     $scope.lastName = "Doe";
 });
-</script>
+\</script>
 ```
-
 See that? you just update the property, without call any method, the model will be updated seamlessly. I am still trying explore this one. 
 
 You can check [my repository](https://github.com/putuyoga/yoga-core) to follow what i've done so far with AngularJS and ASP.NET Core.
