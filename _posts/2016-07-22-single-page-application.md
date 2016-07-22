@@ -15,18 +15,20 @@ As a programmer who familiar with MVVM and data-binding concept, this framework 
 
 below some cool [example](http://www.w3schools.com/angular/tryit.asp?filename=try_ng_module): 
 
-```javascript
+html code
+```html
 <div ng-app="myApp" ng-controller="myCtrl">
 {{ firstName + " " + lastName }}
 </div>
+```
 
-<script>
+javascript code
+```javascript
 var app = angular.module("myApp", []);
 app.controller("myCtrl", function($scope) {
     $scope.firstName = "John";
     $scope.lastName = "Doe";
 });
-</script>
 ```
 
 See that? you just update the property, without call any method, the model will be updated seamlessly. I am still trying explore this one. 
