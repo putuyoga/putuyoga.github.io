@@ -17,7 +17,7 @@ below some cool [example](http://www.w3schools.com/angular/tryit.asp?filename=tr
 
 ```
 <div ng-app="myApp" ng-controller="myCtrl">
-{{ firstName + " " + lastName }}
+`{{ firstName + " " + lastName }}`
 </div>
 
 <script>
