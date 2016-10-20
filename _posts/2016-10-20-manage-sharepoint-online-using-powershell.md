@@ -16,6 +16,7 @@ After you have done the installation, you can open the `SPO Management Shell` by
 
 ## Setup Proxy
 Because our company is behind proxy, we should execute this command to use dafault proxy:
+
 ```powershell
 $cred = [System.Net.CredentialCache]::DefaultCredentials
 [System.Net.WebRequest]::DefaultWebProxy.Credentials = $cred
@@ -23,6 +24,7 @@ $cred = [System.Net.CredentialCache]::DefaultCredentials
 
 ## Connect to SharePoint Online
 After that, we can try to connect to our sharepoint, using Connect-SPOService:
+
 ```powershell
 $adminUPN="<the full email address of a SharePoint Online global administrator account, example: jdoe@contosotoycompany.onmicrosoft.com>"
 $orgName="<name of your Office 365 organization, example: contosotoycompany>"
@@ -31,6 +33,7 @@ Connect-SPOService -Url https://$orgName-admin.sharepoint.com -Credential $userC
 ```
 
 below is example of mine:
+
 ```powershell
 $adminUPN="putu_p@spmitrais.onmicrosoft.com"
 $orgName="spmitrais"
@@ -40,6 +43,7 @@ Connect-SPOService -Url https://$orgName-admin.sharepoint.com -Credential $userC
 
 ## Sample Command
 After you successful connect to your site, now you should try a command to manage your SharePoint. Below is sample command to create subsite on your site.
+
 ```powershell
 New-SPOSite -Url https://spmitrais.sharepoint.com/sites/hellow -Owner putu_p@spmitrais.onmicros
 oft.com -StorageQuota 1000 -Title "Hello it is Me!"
