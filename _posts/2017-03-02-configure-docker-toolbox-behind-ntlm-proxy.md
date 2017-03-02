@@ -2,27 +2,24 @@
 title: Configure Docker Toolbox Behind NTLM Proxy
 comments: true
 ---
-It started when i was trying docker toolbox, and i can't build my source into docker image. It said `network is unreachable`.
+It started when i was trying docker toolbox, and i couldn't build my source into docker image. It said `network is unreachable`.
 
-If your company behind MS Proxy Server that using the proprietary NTLM protocol and then get frustated when try to configure your docker machine, congrats! I will share this topic to ya
+If your company behind MS Proxy Server that using the proprietary NTLM protocol and then get frustated when try to configure your docker machine, i will give hint to solve this.
 
 ## Prequisite
 * [CNTLM](http://cntlm.sourceforge.net/)
 * [Docker ToolBox](https://www.docker.com/products/docker-toolbox)
 
 ## Setup CNTLM
-Make sure you already installed the CNTLM. If you done, generate the hash for your password:
+Make sure you already installed the CNTLM. After CNTLM had been installed, generate the hash for your password:
 ```powershell
 cd C:\Program Files (x86)\Cntlm
 ```
-
 then run
 ```powershell
 cntlm -H
 ```
-
 after that copy and paste that result into `cntlm.ini`, this is sample of configuration of mine:
-
 ```
 Username    putu_p
 Domain		  mitrais
@@ -42,7 +39,7 @@ next one is you can restart `CNTLM Authentication Proxy` Service
 
 Setup cntlm is done! let's move out to proxy configuration on docker machine.
 
-# Setup Proxy on Docker Machine
+## Setup Proxy on Docker Machine
 Open the docker quickstart terminal. 
 Then go into inside docker machine with
 ```bash
@@ -64,5 +61,4 @@ docker@default:~$ sudo /etc/init.d/docker restart
 docker@default:~$ exit
 $ docker search ubuntu
 ```
-
 If you success, then welcome abroad capt! If not just put your comment below.
