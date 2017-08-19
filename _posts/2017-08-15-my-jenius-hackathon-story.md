@@ -17,7 +17,7 @@ I just don't want waste my time to figure out why the stack doesn't works, or te
 I want **feature over technology**.
 
 ### Reusability Over Everything
-As mentioned before, i want focus on implement feature instead battle with the technology, so i choose several UI-kit component, lot of boilerplate code, backendless server to help me achieve it.
+As mentioned before, i want focus on implement feature instead battle with the technology, so i choose several UI-kit component, lot of boilerplate code, serverless backend to help me achieve it.
 I want to honor whoever made this:
 
 #### [A. React Native Boilerplate](https://github.com/jhen0409/react-native-boilerplate)
@@ -41,6 +41,6 @@ And others component i am too lazy to write, but have great impact too.
 | ------------- |:-------------:| -----:|
 |![Imgur](http://i.imgur.com/Mc4Ytok.png)|![Imgur](http://i.imgur.com/H6VJyWp.png)|![Imgur](http://i.imgur.com/LVbcuIh.png)|
 
-Thanks to my partner _sonny_, who implement the complicated react-navigation and tabs. I fail to implement it at the beginning lol.
+Thanks to my partner _sonny_ da real MVP, who implement the complicated react-navigation tabs and some of core feature. I fail to implement it at the beginning lol.
 
 Well, we published our source code at github. If you interested with our spaghetti code, [check this out](https://github.com/putuyoga/jenius-rewards-hackathon).
