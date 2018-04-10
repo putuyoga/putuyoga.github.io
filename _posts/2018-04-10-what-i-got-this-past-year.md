@@ -5,9 +5,9 @@ comments: true
 
 <img src="https://cdn-images-1.medium.com/max/500/0*nBQCI0SNB2pDh8Rv." />
 
-Past year is an exiciting one. ~Hopefully~ this 2018 would be more fun! 
+Past year was an exiciting one. *Hopefully* this 2018 would be more fun! 
 
-I've learned a lot on recent big project. *Rewriting* a biggest fintech app in Indonesia isn't an easy task. With around almost 50-60 peoples, collaboration is quite challenging.
+I've experience a lot _aha_ moment on recent big project. *Rewriting* a biggest fintech app in Indonesia isn't an easy task, with around almost 50-60 peoples, collaboration is quite challenging.
 
 For the tech stack itself, we're using React Native, Redux, GraphQL, Uranium, etc. We do write unit test. Code review is a must. And sharing is caring, we usually do meetup to share what is the recent tech worth to try.
 
