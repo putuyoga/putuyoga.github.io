@@ -24,7 +24,7 @@ If you start getting frustated of something, it is a bad sign on your workflow. 
 Consider CI/CD would be great. You could automate the deployment or way you produce the package.
 
 ### CLI Rules!
-Now, instead using GUI app, i playing a lot on command line interface. Instead using SourceTree, i am a fan of git cli, yes you read it correctly, git cli.
+Now, instead using GUI app, i am playing a lot on command line interface. Instead using SourceTree, i am a fan of git cli, yes you read it correctly, git cli.
 I am too lazy to open emulator from android studio, instead i write some shortcut to run emulator from command line. huh?
 
 ### Ask, Ask, Ask
