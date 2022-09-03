@@ -1,5 +1,7 @@
 ---
 title: About Me
+sitemap: false
+noindex: true
 ---
 
 I have been developing software since I was a kid, who spent his free time tinkering with his father's computer until it was broken.

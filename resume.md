@@ -1,5 +1,7 @@
 ---
 title: Resume
+sitemap: false
+noindex: true
 ---
 
 Enthusiastic software engineer with 6+ years of experience involved in the complete software development life cycle of successfully launched products. Highly efficient development workflow with the practice of continuous integration & deployment. A quick learner and an excellent troubleshooter produce a well-balanced cost and quality product. 
