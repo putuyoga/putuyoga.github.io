@@ -12,11 +12,11 @@ I need to dig Google to find how to configure inbound security on my azure virtu
 
 1. First, you should choose your VM from dashboard.
 2. Then click resource group link.
-![first](http://i.imgur.com/1KcHhEV.jpg)
+![first](https://i.imgur.com/1KcHhEV.jpg)
 3. Click network security group (shield icon)
-![first](http://i.imgur.com/zEHWrHs.jpg)
+![first](https://i.imgur.com/zEHWrHs.jpg)
 4. next you got the inbound security setting!
-![second](http://i.imgur.com/VQYA8fg.jpg)
+![second](https://i.imgur.com/VQYA8fg.jpg)
 
 and the rest, you can configure, what port can be accessed, the source, the destination and more. 
 

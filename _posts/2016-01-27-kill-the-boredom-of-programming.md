@@ -19,7 +19,7 @@ At stackoverflow, you can hunt some reputation, WooHoo! Give your answer to seve
 I often read some interesting answers from this site. It give you some perspectives from well known author to an anonymous CIA agent. Not only serious question, but funny one!!!
 
 ## 3. Involved to Open Source Project
-![Random Commit](http://imgs.xkcd.com/comics/git_commit.png)
+![Random Commit](https://imgs.xkcd.com/comics/git_commit.png)
 Github is the best place for start. Randomly browse some interesting project, and do fork some repos and start hacking the source code!
 
 ## 4. Try something new

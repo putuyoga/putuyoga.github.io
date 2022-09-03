@@ -1,56 +1,53 @@
 # Site Info
-title:              "I Putu Yoga Permana"
-description:        "A Minimal coder with a lot ♥."
-google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
-google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
+title: "I Putu Yoga Permana"
+description: "A Minimal coder with a lot ♥."
+google_verify: epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
+google_analytics: UA-XXXXXXX-X # Put your Google Analytics code
 
 # Author Info
-author_name:        "putuyoga"
-author_email:       putuyoga@outlook.com
-author_gravatar:    f5ebd4c466b1f9cc71cd04c26aacad0e # Gravatar md5 hash
-twitter_username:   putuyoga
+author_name: "putuyoga"
+author_email: putuyoga@outlook.com
+author_gravatar: f5ebd4c466b1f9cc71cd04c26aacad0e # Gravatar md5 hash
+twitter_username: putuyoga
 
 # Site Settings
-baseurl:            "http://putuyoga.com" # Base URL must end WITHOUT a slash, default: ""
-permalink:          /blog/:title # Post permalink
-timezone:           Asia/Jakarta # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+baseurl: "https://putu.yoga" # Base URL must end WITHOUT a slash, default: ""
+permalink: /post/:title # Post permalink
+timezone: Asia/Jakarta # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Site Build
-highlighter:        rouge
+highlighter: rouge
 #markdown:           redcarpet
 #redcarpet:
 #    extensions:     ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "highlight", "footnotes"]
-markdown:           kramdown
+markdown: kramdown
 kramdown:
-    input:          GFM
+  input: GFM
 sass:
-    style:          :compressed
+  style: :compressed
 
 # Other Params
-include:            [ "robots.txt" ]
-exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
+include: ["robots.txt"]
+exclude: ["LICENSE", "README.md", "CNAME", "vendor", "Gemfile"]
 gems:
   - jekyll-sitemap
 
 compress_html:
-    clippings:      all
-    ingore:
-        envs:       [ "test" ]
+  clippings: all
+  ingore:
+    envs: ["test"]
 
 defaults:
-  -
-    scope:
-      path:         ""
+  - scope:
+      path: ""
     values:
-      layout:       "null"
-  -
-    scope:
-      type:         "pages"
+      layout: "null"
+  - scope:
+      type: "pages"
     values:
-      layout:       "page"
-  -
-    scope:
-      type:         "posts"
+      layout: "page"
+  - scope:
+      type: "posts"
     values:
-      layout:       "post"
+      layout: "post"
       comments: true

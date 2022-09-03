@@ -2,7 +2,7 @@
 title: My Jenius Hackathon Story
 comments: true
 ---
-![Imgur](http://i.imgur.com/CNMghOD.jpg?1)
+![Imgur](https://i.imgur.com/CNMghOD.jpg?1)
 
 It was exciting moment when i join Jenius x IT Hackathon 2017. There are abundant free food, cool air conditioning, massage chair, PS4, sleeping bag (wtf?)
 
@@ -10,7 +10,7 @@ With one mate sleep earlier until morning, damn-cold air conditioning, lack of r
 
 Thanks god, we have basic knowledge on react, prototyping with react is so fast and fun, with hot-reload, a lot of pre-made component, and chrome debugger save our ass once more!
 
-![i see what u did](http://s2.quickmeme.com/img/59/5930d53077224509180a57bc6b13c87c69c91fb431f8edd81f45dd938a3352c0.jpg)
+![i see what u did](https://s2.quickmeme.com/img/59/5930d53077224509180a57bc6b13c87c69c91fb431f8edd81f45dd938a3352c0.jpg)
 
 To be honest, i didn't start from scratch. Already prepare it 2-3 days before event to create the seed app project. 
 I just don't want waste my time to figure out why the stack doesn't works, or technical things, just make sure the prototype feature is our main focus.
@@ -39,7 +39,7 @@ And others component i am too lazy to write, but have great impact too.
 
 | SaveIt        | Points           | Rewards |
 | ------------- |:-------------:| -----:|
-|![Imgur](http://i.imgur.com/Mc4Ytok.png)|![Imgur](http://i.imgur.com/H6VJyWp.png)|![Imgur](http://i.imgur.com/LVbcuIh.png)|
+|![Imgur](https://i.imgur.com/Mc4Ytok.png)|![Imgur](https://i.imgur.com/H6VJyWp.png)|![Imgur](https://i.imgur.com/LVbcuIh.png)|
 
 Thanks to my partner _sonny_ da real MVP, who implement the complicated react-navigation tabs and some of core feature. I fail to implement it at the beginning lol.
 

@@ -13,7 +13,7 @@ There are a lot of JS framework that can help you, like i used today, [AngularJS
 
 As a programmer who familiar with MVVM and data-binding concept, this framework help me so much. You just define the ViewModel (in angular, we use called `Controller`), you can attach the data model using directive `ng-model`.
 
-below some cool [example](http://www.w3schools.com/angular/tryit.asp?filename=try_ng_module): 
+below some cool [example](https://www.w3schools.com/angular/tryit.asp?filename=try_ng_module): 
 
 ![the source](https://raw.githubusercontent.com/putuyoga/putuyoga.github.io/master/assets/images/source_code_ng.JPG)
 

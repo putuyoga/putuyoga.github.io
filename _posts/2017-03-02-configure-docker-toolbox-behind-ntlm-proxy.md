@@ -7,7 +7,7 @@ It started when i was trying docker toolbox, and i couldn't build my source into
 If your company behind MS Proxy Server that using the proprietary NTLM protocol and then get frustated when try to configure your docker machine, i will give hint to solve this.
 
 ## Prequisite
-* [CNTLM](http://cntlm.sourceforge.net/)
+* [CNTLM](https://cntlm.sourceforge.net/)
 * [Docker ToolBox](https://www.docker.com/products/docker-toolbox)
 
 ## Setup CNTLM
@@ -35,7 +35,7 @@ PassNTLMv2  AF53BD9898560A113E82FCA0C8DFXXXX    # Only for user 'putu_p', domain
 ```
 next one is you can restart `CNTLM Authentication Proxy` Service
 
-![Imgur](http://i.imgur.com/eHbtxOL.jpg)
+![Imgur](https://i.imgur.com/eHbtxOL.jpg)
 
 Setup cntlm is done! let's move out to proxy configuration on docker machine.
 

@@ -1,5 +1,5 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   padding: 20px;
   margin: 0;
   font-weight: 400;
@@ -60,7 +60,8 @@ span[data-note] {
   @media (min-width: 768px) {
     vertical-align: 1px;
   }
-  @media (min-width: 992px) {&:hover {
+  @media (min-width: 992px) {
+    &:hover {
       background: #838383;
     }
   }
@@ -68,7 +69,7 @@ span[data-note] {
 .note {
   background: #f8f8f8;
   border: 1px solid #ddd;
-  box-shadow: 0 0 8px rgba( 0, 0, 0, 0.2 );
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
   padding: 20px 20px 50px;
   position: fixed;
   bottom: 0;
@@ -79,13 +80,13 @@ span[data-note] {
   -webkit-transition-property: transform;
   -webkit-transition-duration: 0.6s;
   -webkit-transition-timing-function: ease;
-  transform: translateY( calc( 100% + 8px ) );
-  -webkit-transform: translateY( calc( 100% + 8px ) );
+  transform: translateY(calc(100% + 8px));
+  -webkit-transform: translateY(calc(100% + 8px));
   font-size: 14px;
   line-height: 1.7em;
   &.shown {
-    transform: translateY( 0 );
-    -webkit-transform: translateY( 0 );
+    transform: translateY(0);
+    -webkit-transform: translateY(0);
   }
   @media (min-width: 768px) {
     right: 40px;
@@ -98,11 +99,11 @@ span[data-note] {
     transition-duration: 0.3s;
     -webkit-transition-duration: 0.3s;
     opacity: 0;
-    transform: scale( 0.1 ) translateZ( 0 );
-    -webkit-transform: scale( 0.1 ) translateZ( 0 );
+    transform: scale(0.1) translateZ(0);
+    -webkit-transform: scale(0.1) translateZ(0);
     &.shown {
-      transform: scale( 1 ) translateZ( 0 );
-      -webkit-transform: scale( 1 ) translateZ( 0 );
+      transform: scale(1) translateZ(0);
+      -webkit-transform: scale(1) translateZ(0);
       opacity: 1;
     }
   }
@@ -144,7 +145,8 @@ span[data-note] {
       -moz-border-radius: 50%;
       border-radius: 50%;
     }
-    @media (max-width : 480px) {&:hover + .logo-prompt,
+    @media (max-width: 480px) {
+      &:hover + .logo-prompt,
       &:focus + .logo-prompt {
         display: none !important;
       }
@@ -157,7 +159,7 @@ span[data-note] {
     padding: 5px;
     border-radius: 3px;
     background: #666;
-    background: rgba(0,0,0,.5);
+    background: rgba(0, 0, 0, 0.5);
     margin-left: 15px;
     color: #fff;
     font-size: 0.8235em;
@@ -170,7 +172,7 @@ span[data-note] {
       border-width: 5px 5px 5px 0;
       border-style: solid;
       border-color: transparent #666;
-      border-color: transparent rgba(0,0,0,.5);
+      border-color: transparent rgba(0, 0, 0, 0.5);
       position: absolute;
       top: 50%;
       left: -5px;
@@ -204,7 +206,7 @@ time {
 }
 code,
 pre {
-  font-family: 'Source Code Pro', Consolas, monospace, x;
+  font-family: "Source Code Pro", Consolas, monospace, x;
 }
 code {
   color: #f14e32;
@@ -258,9 +260,26 @@ article {
   }
   .divider {
     background: #ddd;
-    background: -webkit-gradient(linear,left top,right top,from(rgba(255,255,255,0)),color-stop(#ccc),to(rgba(255,255,255,0)));
-    background: -webkit-linear-gradient(left,rgba(255,255,255,0),#ccc,rgba(255,255,255,0));
-    background: linear-gradient(to right,rgba(255,255,255,0),#ccc,rgba(255,255,255,0));
+    background: -webkit-gradient(
+      linear,
+      left top,
+      right top,
+      from(rgba(255, 255, 255, 0)),
+      color-stop(#ccc),
+      to(rgba(255, 255, 255, 0))
+    );
+    background: -webkit-linear-gradient(
+      left,
+      rgba(255, 255, 255, 0),
+      #ccc,
+      rgba(255, 255, 255, 0)
+    );
+    background: linear-gradient(
+      to right,
+      rgba(255, 255, 255, 0),
+      #ccc,
+      rgba(255, 255, 255, 0)
+    );
     height: 1px;
     margin: 2em 0;
   }
@@ -274,8 +293,8 @@ article {
     margin: 30px 0;
   }
   p {
-    font-size: 1.0rem;
-    line-height: 2.0em;
+    font-size: 1rem;
+    line-height: 2em;
     letter-spacing: 0.04rem;
     word-wrap: break-word;
   }
@@ -337,7 +356,8 @@ section {
         letter-spacing: 1px;
         text-transform: uppercase;
       }
-      @media (min-width: 992px) {a {
+      @media (min-width: 992px) {
+        a {
           border-bottom: 2px solid transparent;
           &:hover {
             border-color: #000;
@@ -347,33 +367,35 @@ section {
     }
   }
 }
-@keyframes bounce {0% {
-    transform: translate3d( 0, -1000px, 0 );
+@keyframes bounce {
+  0% {
+    transform: translate3d(0, -1000px, 0);
   }
   60% {
-    transform: translate3d( 0, 25px, 0 );
+    transform: translate3d(0, 25px, 0);
   }
   75% {
-    transform: translate3d( 0, -10px, 0 );
+    transform: translate3d(0, -10px, 0);
   }
   90% {
-    transform: translate3d( 0, 5px, 0 );
+    transform: translate3d(0, 5px, 0);
   }
   100% {
     transform: none;
   }
 }
-@-webkit-keyframes bounce {0% {
-    -webkit-transform: translate3d( 0, -1000px, 0 );
+@-webkit-keyframes bounce {
+  0% {
+    -webkit-transform: translate3d(0, -1000px, 0);
   }
   60% {
-    -webkit-transform: translate3d( 0, 25px, 0 );
+    -webkit-transform: translate3d(0, 25px, 0);
   }
   75% {
-    -webkit-transform: translate3d( 0, -10px, 0 );
+    -webkit-transform: translate3d(0, -10px, 0);
   }
   90% {
-    -webkit-transform: translate3d( 0, 5px, 0 );
+    -webkit-transform: translate3d(0, 5px, 0);
   }
   100% {
     -webkit-transform: none;

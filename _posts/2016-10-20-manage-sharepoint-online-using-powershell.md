@@ -12,7 +12,7 @@ If you familiar enough with the sharepoint online feature and administration, we
 ## Open the Shell
 After you have done the installation, you can open the `SPO Management Shell` by type to `sharepoint` to on your start-apps. Then right click and run as administrator.
 
-![run as admin](http://i.imgur.com/colKtM3.jpg)
+![run as admin](https://i.imgur.com/colKtM3.jpg)
 
 ## Setup Proxy
 Because our company is behind proxy, we should execute this command to use dafault proxy:
