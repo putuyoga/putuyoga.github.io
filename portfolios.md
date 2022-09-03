@@ -2,11 +2,12 @@
 title: Portfolios
 ---
 
-From simple cms to complete product ecossytem, I've been built solution and participate on many product developments since a decade ago. 
+From simple cms to a complete product, I've been built solution and experienced on many product developments since a decade ago. 
 
 Work together along with many people across countries & races.
 
 ## 2022 ← 2018
+
 |   |   |
 |---|---|
 | ![livingjapan](https://i.imgur.com/mHndAhk.png)  | ![mapicon](https://i.imgur.com/CSOIeOK.png) |
