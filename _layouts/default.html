@@ -6,6 +6,9 @@ layout: compress
 <html lang="en">
   <head>
     {% include head.html %}
+	{% if page.noindex %}
+	<META NAME="ROBOTS" CONTENT="NOINDEX,FOLLOW"/>
+	{% endif %}
   </head>
 
   <body>
