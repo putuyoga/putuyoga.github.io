@@ -10,28 +10,28 @@ Enthusiastic software engineer with 6+ years of experience involved in the compl
 - Work on CRM ecosystem implementing several 3rd-party integrations from common wordpress plugin to popular SaaS
 - Refactor & improve product life cycle
 
-<br/>
+----
 
 **Inbound Platform, Inc.**, Tokyo, Japan — Software Engineer<br/><small style="color: gray">February 2020 - June 2022</small>
 
 - Led a team of 2 to redesign the frontend of the vehicle rental website[^1] using `vuejs` on top of the existing legacy mvc codebase. 
 - Led a team of 4 to build a new foreigner-friendly apartment website[^2] within a month using `nuxtjs`, `expressjs`, `mongodb`, and `graphql`. 
 
-<br/>
+----
 
 **Fast Japan, Inc.**, Tokyo, Japan — Lead App Developer<br/><small>September 2018 - (until acquired by Inbound Platform, Inc. in February 2020)</small>
 
 - Responsible for developing the v3 of travel chat app[^3] along with a web system for the concierges to handle end-to-end real-time chat.
 - Being a full-stack developer built v4 of Tabiko as a live travel platform enabling user-generated live streaming content and engaging with the users from the real-time comments.
 
-<br/>
+----
 
 **PT. Mitrais**, Bali, Indonesia — Software Engineer<br/><small>July 2016 - September 2018</small>
 
 - Develop one of the largest digital banking apps[^4] in Indonesia with millions of users and covers all of the major platforms (`android`, `ios`, `web`) using `react-native`. Improve the app’s major performance and enhance overall usability. Develop an internal library to help debug the app’s performance. 
 - CRM Construction System, involved as a part of an offshore team mainly working as full-stack developers (`asp.net` & `angularjs`) with tight deadlines. 
 
-<br/>
+----
 
 **CV. Raion Studio**, Malang, Indonesia — Programmer<br/><small>February 2014 - September 2014</small>
 
