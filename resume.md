@@ -38,6 +38,8 @@ Enthusiastic software engineer with 6+ years of experience involved in the compl
 - Develop Windows Phone Apps with more than 100k+ downloads
 - Develop Entertainment Apps & Mobile games using Unity3D
 
+----
+
 ## Project & Contract Based
 
 **OMY, Inc.**, Japan<br/><small>2021 - 2022</small>
@@ -46,15 +48,21 @@ Enthusiastic software engineer with 6+ years of experience involved in the compl
 - Use `nextjs` with `firebase` to develop the backend and administration page.
 - Generate several pdf files based on the data entered from the mobile app with help of the `puppeteer` library.
 
+----
+
 **Kimura Shoken Inc.**, Japan<br/><small>2021 - 2022</small>
 
 - Revamp some pages of a truck sharing website[^6]
 - Reducing bounce rate up to 24% and increase organic average session by 5 times
 
+----
+
 **DIP, Inc.**, Japan<br/><small>2020 - 2021</small>
 
 - Contribute on a proof-of-concept apps
 - Contribute on a enterprise SaaS product
+
+----
 
 **Various Companies***, Indonesia<br/><small>2014 - 2016</small>
 
@@ -63,11 +71,15 @@ Enthusiastic software engineer with 6+ years of experience involved in the compl
 - Develop `rest-api` for a product catalog listing with `slim-php`.
 - develop e-commerce and news apps with `xamarin.forms` and `windows-phone`.
 
+----
+
 ## Education
 
 **Brawijaya University**, Malang, Indonesia — B.S. Informatics<br/><small>July 2011 - August 2015</small>
 
 **GPA 3.6 / 4.0**, Selected as Microsoft Student Partner Indonesia which is responsible for introducing the usage of Microsoft technologies by hosting programming workshops, seminars, creating ebooks, technical articles, etc.
+
+----
 
 ### Tehnical Skills
 
@@ -75,11 +87,15 @@ Daily<br/>`python` `django` `postgresql` `rabbitmq` `git` `docker` `ci/cd` `shel
 
 Prior<br/>`javascript` `typescript` `react-native` `expo` `graphql` `rest-api` `redux` `graphql` `scss` `nodejs` `aws` `firebase` `expressjs` `nextjs` `c#` `asp.net mvc` `angularjs` `windows-phone` `xamarin` `linux` `nginx` `apache` `php` `mysql` `wordpress` `unity3d` `code-igniter`
 
+----
+
 ### Achievements
 - Finalist Indie Game Ignite 2014
 - Ukhuwah IslamICT 2014
 - 1st Winner of BCA Finhacks 2017
 - 3rd Winner of Jenius IT Hackathon 2017
+
+----
 
 ### Footnotes
 [^1]: https://rv-japan.com
