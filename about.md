@@ -9,6 +9,6 @@ My journey started with `php`, `css`, `html`, and ugly `javascript` on notepad++
 Now, I am getting paid to smash the keyboard and pretend to work hard the whole day. Heck, becoming an adult, sometimes I am even questioning my existence on this earth as well.
 
 
-Anyway, If you are looking me for my professional history, go check my [resume](/resume) or [Porfolio](/portfolio) page instead. 
+Anyway, If you are looking me for my professional history, go check my [resume](/resume) or [porfolios](/portfolios) page instead. 
 
 Cheers,
