@@ -1,10 +1,14 @@
 ---
-title: Tentang
+title: About Me
 ---
 
-Hi stranger! Welcome to my site, I am no longer have lot free time to tinker this site as I used to. 
-But feel free to browse around! 
+I have been developing software since I was a kid, who spent his free time tinkering with his father's computer until it was broken.
 
-I am getting paid to typing and thinking the whole day. Heck, sometimes I am even questioning my existence and purpose as well.
+My journey started with PHP, CSS, HTML, and ugly Javascript on Notepad++ while listening to Winamp, I felt I conquered the world. Damn, It felt so good at that time.
+
+Now, I am getting paid to smash the keyboard and pretend to work hard the whole day. Heck, becoming an adult, sometimes I am even questioning my existence on this earth as well.
+
+
+Anyway, If you are looking me for my professional history, go check my [resume](/resume) or [Porfolio](/portfolio) page instead. 
 
 Cheers,

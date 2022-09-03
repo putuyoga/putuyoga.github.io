@@ -12,7 +12,7 @@ twitter_username: putuyoga
 
 # Site Settings
 baseurl: "https://putu.yoga" # Base URL must end WITHOUT a slash, default: ""
-permalink: /post/:title # Post permalink
+permalink: /posts/:title # Post permalink
 timezone: Asia/Jakarta # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Site Build
