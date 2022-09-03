@@ -21,8 +21,8 @@ Enthusiastic software engineer with 6+ years of experience involved in the compl
 
 **Fast Japan, Inc.**, Tokyo, Japan — Lead App Developer<br/><small style="color: gray">September 2018 - (until acquired by Inbound Platform, Inc. in February 2020)</small>
 
-- Responsible for developing the v3 of travel chat app[^3] along with a web system for the concierges to handle end-to-end real-time chat.
-- Being a full-stack developer built v4 of Tabiko as a live travel platform enabling user-generated live streaming content and engaging with the users from the real-time comments.
+- Responsible for developing `version 3` of the travel chat app[^3] along with a web system for the concierges to handle end-to-end real-time chat.
+- Being a full-stack developer built `version 4` of the live travel platform enabling user-generated live streaming content and engaging with the users from the real-time comments.
 
 ----
 
@@ -52,22 +52,22 @@ Enthusiastic software engineer with 6+ years of experience involved in the compl
 
 **Kimura Shoken Inc.**, Japan<br/><small style="color: gray">2021 - 2022</small>
 
-- Revamp some pages of a truck sharing website[^6]
-- Reducing bounce rate up to 24% and increase organic average session by 5 times
+- Revamp some pages of a truck-sharing website[^6]
+- Reducing bounce rate up to 24% and increasing organic average session by 5 times
 
 ----
 
 **DIP, Inc.**, Japan<br/><small style="color: gray">2020 - 2021</small>
 
-- Contribute on a proof-of-concept apps
-- Contribute on a enterprise SaaS product
+- Contribute to proof-of-concept apps
+- Contribute to an enterprise SaaS product
 
 ----
 
 **Various Companies***, Indonesia<br/><small style="color: gray">2014 - 2016</small>
 
-- Built and managed several client’s internal websites.
-- Develop custom `wordpress` plugins to manage advertisement on the mobile app.
+- Built and managed several clients’ internal websites.
+- Develop custom `wordpress` plugins to manage advertisements on the mobile app.
 - Develop `rest-api` for a product catalog listing with `slim-php`.
 - develop e-commerce and news apps with `xamarin.forms` and `windows-phone`.
 
@@ -81,7 +81,7 @@ Enthusiastic software engineer with 6+ years of experience involved in the compl
 
 ----
 
-## Tehnical Skills
+## Technical Skills
 
 **Daily**<br/>`python` `django` `postgresql` `rabbitmq` `git` `docker` `ci/cd` `shell-scripting` `vuejs`
 
