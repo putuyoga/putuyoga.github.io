@@ -4,13 +4,12 @@ sitemap: false
 noindex: true
 ---
 
-I have been developing software since I was a kid, who spent his free time tinkering with his father's computer until it was broken.
+I’m a software engineer with 9+ years of professional experience. I currently work at a Singapore-based tech startup. My days are packed with planning, meetings, and, of course, a whole lot of coding (shocking, I know 🤯).
 
-My journey started with `php`, `css`, `html`, and ugly `javascript` on notepad++ while listening to winamp, I felt I conquered the world. Damn, It felt so good at that time.
+Outside of work, I run before the day kicks off. I still game, but not as much as I used to (adulting , am I right?). 
 
-Now, I am getting paid to smash the keyboard and pretend to work hard the whole day. Heck, becoming an adult, sometimes I am even questioning my existence on this earth as well.
+I’m also into investing, traveling, and lately, experimenting with LLMs. What else? I’m always up for discovering what life throws my way!
 
-
-Anyway, If you are looking me for my professional history, go check my [resume](/resume) or [porfolios](/portfolios) page instead. 
+If you are interested in my professional journey, go check out my [resume](/resume) or [portfolios](/portfolios) page instead. 
 
 Cheers,
