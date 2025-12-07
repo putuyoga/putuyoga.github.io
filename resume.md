@@ -4,7 +4,9 @@ sitemap: false
 noindex: true
 ---
 
-*A Senior full-stack engineer with a 10+ years track record of shipping high-impact features and scalable systems*
+# I Putu Yoga Permana
+
+*A Senior full-stack engineer with a 10+ years track record of shipping high-impact features and scalable systems end-to-end*
 
 ## TECHNICAL SKILLS
 
@@ -15,6 +17,8 @@ noindex: true
 * **DevOps / Infra:** Docker, Cloudflare, Linux, Nginx, Apache, Shell scripting, GitHub Actions, Git, CI/CD
 * **Cloud:** AWS (Beanstalk, EC2, S3, RDS, CloudFront, SNS, SES, DynamoDB, IAM), Vercel, Firebase
 * **Payments & Integrations:** Stripe, PayPal, Meta CAPI, FB Graph API, WordPress
+
+----
 
 ## WORK EXPERIENCES
 
@@ -56,12 +60,16 @@ noindex: true
 * Contributed to one of Indonesia’s largest digital banking apps (millions of users), built on a single React Native codebase for Android, iOS, and Web. Fixed **severe performance** issues affecting low-end Android devices, improved overall usability, and built internal libraries that accelerated testing and debugging.  
 * CRM Construction System for US company, handled full-stack development as part of an offshore team, delivering features under **aggressive deadlines**.
 
+----
+
 ## ACHIEVEMENTS
 
 * **1st Place — BCA Finhacks 2017:** Built BCA QuickTap, winning over thousands of participants nationwide.   
 * **3rd Place — Jenius Hackathon 2017:** Reinvent banking experience by delivering a gamified banking prototype.   
 * **1st Place — IslamICT Award 2014:** Built Hidayah, a full-featured prayer app with a pleasant user experience.   
 * **Finalist — UI Indie Game Ignite 2014:** Created Capsule Adventure using Unity3D on Android & Windows Phone.
+
+----
 
 ## CONTRACT-BASED
 
@@ -94,13 +102,16 @@ noindex: true
 * Created a REST API for product catalogue listing using SlimPHP framework.   
 * Delivered e-commerce and news mobile applications using Xamarin.Forms and Windows Phone Silverlight
 
+----
+
 ## **EDUCATION**
 
-## Brawijaya University (Malang, Indonesia) / 2011 – 2015
+### Brawijaya University (Malang, Indonesia) / 2011 – 2015
 
-** BS Informatics Engineering
+**Bachelor's Degree in Informatics Engineering**
 
 * **GPA 3.6/4.0 (*Cumlaude*)**. Selected as one of the Microsoft Student Partners Indonesia, leading workshops, seminars, and creating technical content to promote Microsoft technologies.  
 * One of the most influential Windows Phone App Developers in Indonesia with more than 100k App Downloads.  
 * Led a small tech community (Raion Community) focused on building games, mobile apps, and creative tech projects.
 
+----
