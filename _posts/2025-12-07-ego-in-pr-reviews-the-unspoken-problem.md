@@ -1,7 +1,8 @@
 ---
-title: Ego in PR Reviews: The Unspoken Problem
+title: "Ego in PR Reviews: The Unspoken Problem"
 comments: false
 ---
+
 <img src="https://external-preview.redd.it/GTdHjYiYlvv59IsDe2BICMZDFeD_XjdiuWD9K_kBg-w.jpg?auto=webp&s=a777678275c34a559b2fc43ff2b82537c55f88fc" />
 
 Every engineering team has at least one:
