@@ -4,25 +4,25 @@ sitemap: false
 noindex: true
 ---
 
-From simple cms to a complete product, I've been built solution and experienced on many product developments since a decade ago. 
+From a dead-simple CMS to a travel concierge chat app, I've built solutions and experience on many product developments for a decade. 
 
 I dedicated this page as my personal archive for what I've contributed or created in the past. 
 
-## Recent Projects
+## Past Projects
 
 |   |   |
 |---|---|
 | ![livingjapan](https://i.imgur.com/mHndAhk.png)  | ![mapicon](https://i.imgur.com/CSOIeOK.png) |
 | **Foreigner-friendly Apartment Website**<br/>[livingjapan.com](https://livingjapan.com) | **Fire-fighting Equipment Inspection App**<br/>[mapicon.jp](https://mapicon.jp) | 
 | ![rv-japan](https://i.imgur.com/HlvPZss.png) | ![trucksharing](https://i.imgur.com/yWuY5Od.png) |
-| **Travel Rental Website**<br/>[rv-japan.com](https://trucksharing.jp) | **Truck-sharing Website**<br/>[trucksharing.jp](https://trucksharing.jp) |
+| **Travel Rental Website**<br/>[rv-japan.com](https://rv-japan.com) | **Truck-sharing Website**<br/>[trucksharing.jp](https://trucksharing.jp) |
 | ![elmonterv-japan](https://i.imgur.com/Usfbmnt.jpg) | ![tabiko](https://i.imgur.com/0HcA8dd.png)  |
 | **Rental Vehicle Website**<br/>[elmonterv-japan.com](https://elmonterv-japan.com/jprental) | **Japan Travel Assistant App**<br/>[tabiko.com](https://tabiko.com) |
 
 
 ## Old Projects
 
-Some of the projects is quite obsoletes or already replaced by newer system
+Some of the projects are quite obsolete or already replaced by newer systems
 
 **Jenius 2.0 (2017)**<br/>First largest digital bank in Indonesia<br/><small>https://jenius.com</small>
 
@@ -30,7 +30,7 @@ Some of the projects is quite obsoletes or already replaced by newer system
 
 **Winpoin App (2015)**<br/>News reader app for windows portal in Indonesia<br/><small>https://winpoin.com</small>
 
-**Windows Phone 8.1 Development Book (2015)**<br/>A newbie-friendly tutorial book to develop windows phone 8.1 app from scratch<br/><small>https://adoc.pub/belajar-membuat-app-windows-phone-81-i-putu-yoga-permana-mic.html</small>
+**Windows Phone 8.1 Development Book (2015)**<br/>A newbie-friendly tutorial book to develop Windows Phone 8.1 app from scratch<br/><small>https://adoc.pub/belajar-membuat-app-windows-phone-81-i-putu-yoga-permana-mic.html</small>
 
 **Ciepo Website (2015)**<br/>Indonesian fun free topic website<br/><small>https://ciepo.com</small>
 
