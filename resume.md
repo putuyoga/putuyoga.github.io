@@ -4,105 +4,103 @@ sitemap: false
 noindex: true
 ---
 
-Enthusiastic software engineer with 6+ years of experience involved in the complete software development life cycle of successfully launched products. Highly efficient development workflow with the practice of continuous integration & deployment. A quick learner and an excellent troubleshooter produce a well-balanced cost and quality product. 
+*A Senior full-stack engineer with a 10+ years track record of shipping high-impact features and scalable systems*
 
-## Work Experiences
+## TECHNICAL SKILLS
 
-**Privyr Pte Ltd**, Singapore — Full-stack Engineer<br/><small style="color: gray">August 2022 - Now</small>
-- Work on CRM ecosystem implementing several 3rd-party integrations from common wordpress plugin to popular SaaS
-- Refactor & improve product life cycle
+* **Languages:** ES6 JavaScript, TypeScript, Python, GraphQL, C\#, PHP, SQL, HTML, CSS
+* **Frontend:** Vue, Nuxt, Next, React Native, Redux, Xamarin.Forms, AngularJS
+* **Backend:** Node.js, Express, Django, Celery, RabbitMQ
+* **Database:** PostgreSQL, Elasticsearch, MongoDB, Redis
+* **DevOps / Infra:** Docker, Cloudflare, Linux, Nginx, Apache, Shell scripting, GitHub Actions, Git, CI/CD
+* **Cloud:** AWS (Beanstalk, EC2, S3, RDS, CloudFront, SNS, SES, DynamoDB, IAM), Vercel, Firebase
+* **Payments & Integrations:** Stripe, PayPal, Meta CAPI, FB Graph API, WordPress
 
-----
+## WORK EXPERIENCES
 
-**Inbound Platform, Inc.**, Tokyo, Japan — Software Engineer<br/><small style="color: gray">February 2020 - June 2022</small>
+### [Privyr](https://privyr.com) (Singapore) / Aug 2022 – Present
 
-- Led a team of 2 to redesign the frontend of the vehicle rental website[^1] using `vuejs` on top of the existing legacy mvc codebase. 
-- Led a team of 4 to build a new foreigner-friendly apartment website[^2] within a month using `nuxtjs`, `expressjs`, `mongodb`, and `graphql`. 
+**Senior Full-Stack Engineer** / Jan 2025 – Present
 
-----
+* Cut API response time by **95%** by migrating heavy, complex database queries to Elasticsearch.   
+* Optimized PostgreSQL performance for millions of client records, reducing query latency from **50s to \<100ms** and halving Average Active Session, significantly lowering *IO:DataFileRead*.   
+* Collaborated closely with Meta to develop and launch the Meta Conversion API integration.  
+* Mitigated DDoS traffic with Cloudflare firewall and rate-limiting, maintaining uptime during the incident.
 
-**Fast Japan, Inc.**, Tokyo, Japan — Lead App Developer<br/><small style="color: gray">September 2018 - (until acquired by Inbound Platform, Inc. in February 2020)</small>
+**Full-Stack Engineer** / Aug 2022 – Dec 2024
 
-- Responsible for developing `version 3` of the travel chat app[^3] along with a web system for the concierges to handle end-to-end real-time chat.
-- Being a full-stack developer built `version 4` of the live travel platform enabling user-generated live streaming content and engaging with the users from the real-time comments.
+* Built and maintained 10+ core integrations used by hundreds of thousands of SMBs, including but not limited to Facebook Lead Gen, LinkedIn Lead Ads, ClickFunnels, WordPress, and Webhook API for seamless lead capture.  
+* Developed One-Time Payment with PayPal & UPI integrations, from API design to production.  
+* Implemented cloud LLM–based lead parsing for scalable lead capture via email, processing thousands of leads/day.  
+* Created a WordPress plugin with automated CI/CD release to the official WP repository via SVN. 
 
-----
+### **Inbound Platform, Inc.** (Tokyo, Japan) / Feb 2020 – Jun 2022
 
-**PT. Mitrais**, Bali, Indonesia — Software Engineer<br/><small style="color: gray">July 2016 - September 2018</small>
+**Software Engineer**
 
-- Develop one of the largest digital banking apps[^4] in Indonesia with millions of users and covers all of the major platforms (`android`, `ios`, `web`) using `react-native`. Improve the app’s major performance and enhance overall usability. Develop an internal library to help debug the app’s performance. 
-- CRM Construction System, involved as a part of an offshore team mainly working as full-stack developers (`asp.net` & `angularjs`) with tight deadlines. 
+* Led a team of 2 to decouple and redesign the frontend for a legacy [**vehicle-rental website**](http://rv-japan.com/) into a modern website.   
+* Architected and led a team of 4 to deliver a [**foreigner-friendly apartment platform**](https://livingjapan.com/) with sub-100ms load times through page caching, web bundle optimisation, and image compression.
 
-----
+### **Fast Japan, Inc.** (Tokyo, Japan) / **Sep 2018 – Jan 2020**
 
-**CV. Raion Studio**, Malang, Indonesia — Programmer<br/><small style="color: gray">February 2014 - September 2014</small>
+**Lead App Developer**
 
-- Develop Windows Phone Apps with more than 100k+ downloads
-- Develop Entertainment Apps & Mobile games using Unity3D
+- Acquired by Inbound Platform, Inc
+* Led development of the next version of [**Tabiko**](http://tabiko.com/) end-to-end, concierge chat app and web system back office. Improved user engagement by **20%** and reduced app response time by over **80%**.  
+* Improved engineering workflow by introducing code review standards, unit testing, CI/CD pipelines, and automated linting/formatting, resulting in faster and more consistent delivery.
 
-----
+### PT. Mitrais (Bali, Indonesia)  / Jun 2016 – Sept 2018
 
-## Project & Contract Based
+**Software Engineer**
 
-**OMY, Inc.**, Japan<br/><small style="color: gray">2021 - 2022</small>
+* Contributed to one of Indonesia’s largest digital banking apps (millions of users), built on a single React Native codebase for Android, iOS, and Web. Fixed **severe performance** issues affecting low-end Android devices, improved overall usability, and built internal libraries that accelerated testing and debugging.  
+* CRM Construction System for US company, handled full-stack development as part of an offshore team, delivering features under **aggressive deadlines**.
 
-- Build a mobile app using `expo` to inspect fire-fighting equipment [^5], simplifying the long form-filling process into simple steps.
-- Use `nextjs` with `firebase` to develop the backend and administration page.
-- Generate several pdf files based on the data entered from the mobile app with help of the `puppeteer` library.
+## ACHIEVEMENTS
 
-----
+* **1st Place — BCA Finhacks 2017:** Built BCA QuickTap, winning over thousands of participants nationwide.   
+* **3rd Place — Jenius Hackathon 2017:** Reinvent banking experience by delivering a gamified banking prototype.   
+* **1st Place — IslamICT Award 2014:** Built Hidayah, a full-featured prayer app with a pleasant user experience.   
+* **Finalist — UI Indie Game Ignite 2014:** Created Capsule Adventure using Unity3D on Android & Windows Phone.
 
-**Kimura Shoken Inc.**, Japan<br/><small style="color: gray">2021 - 2022</small>
+## CONTRACT-BASED
 
-- Revamp some pages of a truck-sharing website[^6]
-- Reducing bounce rate up to 24% and increasing organic average session by 5 times
+### **OMY, Inc.** (Tokyo, Japan) / 2021 – 2022
 
-----
+**Software Engineer (Contract)**
 
-**DIP, Inc.**, Japan<br/><small style="color: gray">2020 - 2021</small>
+* Built a mobile app for building fire-fighting equipment inspections, turning complex multi-step forms into a guided workflow, reducing manual work up to 80% using NextJS, Expo, Firebase, and Vercel.  
+* Generated multi-page PDFs from app data using Puppeteer, automating previously manual reporting.
 
-- Contribute to proof-of-concept apps
-- Contribute to an enterprise SaaS product
+### Kimura Shoken, Inc. (Tokyo, Japan) / 2022 – 2022
 
-----
+**Software Engineer (Contract)**
 
-**Various Companies***, Indonesia<br/><small style="color: gray">2014 - 2016</small>
+* Redesigned multiple pages of a truck-sharing platform website, reducing bounce rate by 24% and increasing organic average session duration by 5 times.
 
-- Built and managed several clients’ internal websites.
-- Develop custom `wordpress` plugins to manage advertisements on the mobile app.
-- Develop `rest-api` for a product catalog listing with `slim-php`.
-- develop e-commerce and news apps with `xamarin.forms` and `windows-phone`.
+### DIP, Inc. (Tokyo, Japan) / 2021 – 2021
 
-----
+**Software Engineer (Contract)**
 
-## Education
+* Built a proof-of-concept for a real-time food takeaway ordering system with LINE messaging.   
+* Developed the initial foundation of an enterprise SaaS product.
 
-**Brawijaya University**, Malang, Indonesia — B.S. Informatics<br/><small style="color: gray">July 2011 - August 2015</small>
+### Various Companies (Indonesia) / 2014 – 2016
 
-**GPA 3.6 / 4.0**, Selected as Microsoft Student Partner Indonesia which is responsible for introducing the usage of Microsoft technologies by hosting programming workshops, seminars, creating ebooks, technical articles, etc.
+**Programmer (Contract)**
 
-----
+* Built and maintained multiple internal client websites using WordPress, PHP, and the CodeIgniter framework.   
+* Developed custom WordPress PHP plugins for in-app ad management.   
+* Created a REST API for product catalogue listing using SlimPHP framework.   
+* Delivered e-commerce and news mobile applications using Xamarin.Forms and Windows Phone Silverlight
 
-## Technical Skills
+## **EDUCATION**
 
-**Daily**<br/>`python` `django` `postgresql` `rabbitmq` `git` `docker` `ci/cd` `shell-scripting` `vuejs`
+## Brawijaya University (Malang, Indonesia) / 2011 – 2015
 
-**Prior**<br/>`javascript` `typescript` `react-native` `expo` `graphql` `rest-api` `redux` `graphql` `scss` `nodejs` `aws` `firebase` `expressjs` `nextjs` `c#` `asp.net mvc` `angularjs` `windows-phone` `xamarin` `linux` `nginx` `apache` `php` `mysql` `wordpress` `unity3d` `code-igniter`
+** BS Informatics Engineering
 
-----
+* **GPA 3.6/4.0 (*Cumlaude*)**. Selected as one of the Microsoft Student Partners Indonesia, leading workshops, seminars, and creating technical content to promote Microsoft technologies.  
+* One of the most influential Windows Phone App Developers in Indonesia with more than 100k App Downloads.  
+* Led a small tech community (Raion Community) focused on building games, mobile apps, and creative tech projects.
 
-## Achievements
-- Finalist Indie Game Ignite 2014
-- Ukhuwah IslamICT 2014
-- 1st Winner of BCA Finhacks 2017
-- 3rd Winner of Jenius IT Hackathon 2017
-
-----
-
-### Footnotes
-[^1]: https://rv-japan.com
-[^2]: https://livingjapan.com
-[^3]: https://tabiko.com
-[^4]: https://jenius.com
-[^5]: https://mapicon.jp
-[^6]: https://trucksharing.jp
