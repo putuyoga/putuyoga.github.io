@@ -10,6 +10,6 @@ Outside of work, I run before the day kicks off. I still game, but not as much a
 
 I’m also into investing, traveling, and lately, experimenting with LLMs. What else? I’m always up for discovering what life throws my way!
 
-If you are interested in my professional journey, go check out my [resume](https://putu.yoga/assets/putuyoga_2026.pdf) or [portfolios](/portfolios) page instead. 
+If you are interested in my professional journey, go check out my [resume](/resume) or [portfolios](/portfolios) page instead. 
 
 Cheers,
