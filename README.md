@@ -1,6 +1,14 @@
-# PUTUYOGA.COM
+# https://putu.yoga
 
-## Use Jekyll and some theme around.
+## Prequisite
+- Docker Compose
 
-This theme is based on Leonard Lamprecht's [Jekyll theme][1] and released under [MIT license](LICENSE) and [Heiswayi Nrird](http://heiswayi.github.io)
-[1]: https://github.com/leo/leo.github.io
+## Getting Started
+
+No fancy setup, you can simply run:
+
+```
+$ docker-compose up
+```
+
+Then site can be accessed locally at https://localhost:4000 
