@@ -4,7 +4,14 @@ sitemap: false
 noindex: true
 ---
 
-Always a builder at ❤️ heart. Started in 2007 on Notepad++, Windows XP and a Pentium 4 PC, later moved to Ubuntu 7.10 after getting tired of viruses living rent-free. Spent nights building an open-source PHP MMO with strangers online. Every error meant hours staring at the screen figuring out what I'd broken. I also ran a small phpBB forum from that era — good times, though it cost me plenty of sleep.
+<p>
+  <img
+    src="https://www.gravatar.com/avatar/{{ site.author_gravatar }}.png?s=256"
+    class="about-avatar"
+    alt="Putu Yoga"
+  />
+  Always a builder at ❤️ heart. Started in 2007 on Notepad++, Windows XP and a Pentium 4 PC, later moved to Ubuntu 7.10 after getting tired of viruses living rent-free. Spent nights building an open-source PHP MMO with strangers online. Every error meant hours staring at the screen figuring out what I'd broken. I also ran a small phpBB forum from that era — good times, though it cost me plenty of sleep.
+</p>
 
 ## By Day
 
