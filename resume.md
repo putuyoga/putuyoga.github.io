@@ -8,6 +8,8 @@ noindex: true
 
 *A Senior full-stack engineer with a 10+ years track record of shipping high-impact features and scalable systems end-to-end*
 
+<p><a href="{{ '/assets/putuyoga_2026.pdf' | prepend: site.baseurl }}" download>Download résumé (PDF)</a></p>
+
 ## TECHNICAL SKILLS
 
 * **Languages:** ES6 JavaScript, TypeScript, Python, GraphQL, C\#, PHP, SQL, HTML, CSS
