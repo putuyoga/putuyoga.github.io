@@ -3,6 +3,10 @@ title: "Refreshing This Little Corner"
 comments: true
 ---
 
+| Before | After |
+|---|---|
+| <img src="https://raw.githubusercontent.com/putuyoga/putuyoga.github.io/refs/heads/master/assets/images/front-site-1.jpg" /> | <img src="https://raw.githubusercontent.com/putuyoga/putuyoga.github.io/refs/heads/master/assets/images/front-site.jpg" /> |
+
 I gave this site a small refresh.
 
 The interesting part is that I did not write every line of the implementation myself. I worked with an AI coding assistant: I described what I wanted, it changed the templates and CSS, then I looked at the result, asked for another adjustment, and repeated that loop until the site felt right.
