@@ -901,3 +901,138 @@ section {
     background-position: 0 0;
   }
 }
+
+// Resume: a small extension of the standard reading layout.
+article .resume-profile {
+  margin-bottom: 2.5rem;
+}
+article .resume-role {
+  color: #555;
+  font-family: "Source Code Pro", Consolas, monospace;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  line-height: 1.6;
+  margin: 0 0 0.65rem;
+  text-transform: uppercase;
+}
+article .resume-summary {
+  font-size: 1.125rem;
+  line-height: 1.65;
+  margin: 0 0 0.75rem;
+}
+article .resume-tenure {
+  color: #555;
+  font-size: 0.9375rem;
+  line-height: 1.75;
+  margin: 0;
+}
+article .resume-links {
+  line-height: 1.5;
+  margin: 1.25rem 0 0;
+}
+article .resume-links a {
+  background: transparent;
+  border-bottom: 1px solid #555;
+  font-size: 0.8125rem;
+  padding: 0;
+}
+article .resume-links a:hover,
+article .resume-links a:focus {
+  background: transparent;
+  border-color: #f14e32;
+  color: #f14e32;
+}
+article .resume-links > span {
+  color: #aaa;
+}
+article .resume-proof {
+  border-top: 1px solid #ddd;
+  margin: 0;
+  max-width: none;
+  padding: 1.35rem 0 1.85rem;
+}
+article .resume-proof:last-child {
+  border-bottom: 1px solid #ddd;
+}
+article .resume-proof h2,
+article .resume-detail h2 {
+  font-family: "Source Code Pro", Consolas, monospace;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  line-height: 1.6;
+  margin: 0 0 0.75rem;
+  text-transform: uppercase;
+}
+article .resume-proof p,
+article .resume-detail p {
+  font-size: 0.9375rem;
+  line-height: 1.75;
+  margin: 0;
+}
+article .resume-proof .resume-example + .resume-example {
+  margin-top: 1rem;
+}
+article .resume-metric {
+  align-items: baseline;
+  display: flex;
+  flex-wrap: wrap;
+  font-family: "Source Code Pro", Consolas, monospace;
+  gap: 0.45rem;
+  line-height: 1;
+  margin: 0 0 0.85rem;
+}
+article .resume-metric span {
+  font-size: clamp(1.5rem, 8.5vw, 2.25rem);
+  font-weight: 600;
+  letter-spacing: -0.08em;
+  white-space: nowrap;
+}
+article .resume-metric b {
+  color: #888;
+  font-size: 1.125rem;
+  font-weight: 400;
+}
+article .resume-detail {
+  border-top: 1px solid #ddd;
+  margin: 0;
+  max-width: none;
+  padding: 1.35rem 0 1.85rem;
+}
+article .resume-detail:last-child {
+  border-bottom: 1px solid #ddd;
+}
+article .resume-experience {
+  margin: 0;
+}
+article .resume-experience div {
+  margin-bottom: 0.85rem;
+}
+article .resume-experience div:last-child {
+  margin-bottom: 0;
+}
+article .resume-experience dt {
+  font-size: 0.9375rem;
+  font-weight: 600;
+  line-height: 1.6;
+}
+article .resume-experience dd {
+  color: #777;
+  font-size: 0.875rem;
+  line-height: 1.65;
+  margin: 0.15rem 0 0;
+}
+article .resume-tools {
+  color: #555;
+  font-family: "Source Code Pro", Consolas, monospace;
+  font-size: 0.875rem !important;
+  letter-spacing: 0.01em;
+  line-height: 1.75 !important;
+}
+
+@media (max-width: 360px) {
+  article .resume-metric {
+    gap: 0.3rem;
+  }
+}
