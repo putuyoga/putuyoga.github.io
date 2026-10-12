@@ -5,7 +5,7 @@ comments: true
 
 <img src="/assets/images/belvedere.jpg" />
 
-Last night i sleep much later than my usual bedtime. I had random discussion with my wife how our journey as SWE being evolved. I remember when being a coder, programmer, or software engineer started becoming one of the most lucrative careers in the world.
+Last night, I went to bed much later than my usual bedtime. I had a random discussion with my wife about how the software engineering industry has evolved over the years. It reminded me of a time when being a coder, programmer, or software engineer was becoming one of the most lucrative career paths in the world.
 
 Air-conditioned offices, excellent compensation, stock options, ping-pong tables, free lunches, gyms, massages, and occasionally a company hoodie that nobody asked for. What else could you possibly want?
 
@@ -105,7 +105,7 @@ I started learning programming around 2007, long before coding bootcamps became 
 
 I was simply a curious kid who enjoyed making things with computers. Back then, I didn't even know whether programming was a career worth pursuing. I wasn't thinking about stock options, high salaries, or achieving financial independence. I just thought programming was another interesting game I could play.
 
-The idea that I could add a silly feature to random MMO browser game to a kid growing up in a small town deep in Borneo is another whole experience.
+Growing up in a small town deep in Borneo, being able to add a silly feature to a random browser-based MMO game felt like a whole new world to me.
 
 And somehow, nearly two decades later, that curiosity hasn't really disappeared.
 
