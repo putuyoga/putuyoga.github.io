@@ -41,7 +41,7 @@ Meanwhile, the pandemic accelerated digital adoption. Remote work, e-commerce, o
 
 Some companies expanded their workforces aggressively, expecting extraordinary growth to continue indefinitely. Apparently, nobody considered that the pandemic might eventually end. Growth was everything, and profitability was something they could figure out later.
 
-For a while, being a software engineer felt almost like being a mythical creature. Recruiters were constantly approaching people on LinkedIn, companies were offering attractive compensation packages, and switching jobs could mean a significant salary increase.
+For a while, software engineers were treated almost like mythical creatures. Recruiters were hunting us on LinkedIn, companies were competing to offer increasingly attractive compensation packages, and switching jobs could mean a ridiculous salary increase.
 
 It was a fantastic time to work in technology. Unfortunately, it was also an extraordinary economic environment that many people mistook for normal. And as we've learned repeatedly throughout history, extraordinary things rarely last forever, especially when they're financed by cheap money.
 
