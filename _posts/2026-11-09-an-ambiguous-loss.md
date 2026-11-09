@@ -1,4 +1,7 @@
-# An Ambiguous Loss
+---
+title: "An Ambiguous Loss"
+comments: true
+---
 
 <img src="/assets/images/random_eu.jpg" />
 
