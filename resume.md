@@ -8,7 +8,7 @@ noindex: true
   <p class="resume-role">Senior Full-Stack Engineer</p>
   <p class="resume-summary">I build products, design systems, and solve production problems.</p>
   <p class="resume-tenure">Building software professionally since 2014. Currently at <a href="https://privyr.com" target="_blank" rel="noopener noreferrer">Privyr · Singapore</a>.</p>
-  <p class="resume-links"><a href="https://github.com/putuyoga" target="_blank" rel="noopener noreferrer">GitHub</a> <span aria-hidden="true">·</span> <a href="https://www.linkedin.com/in/putuyoga" target="_blank" rel="noopener noreferrer">LinkedIn</a> <span aria-hidden="true">·</span> <a href="https://stackoverflow.com/users/1419872/i-putu-yoga-permana" target="_blank" rel="noopener noreferrer">Stack Overflow</a> <span aria-hidden="true">·</span> <a href="{{ '/assets/putuyoga_2026.pdf' | prepend: site.baseurl }}" download>Full résumé / PDF <span aria-hidden="true">→</span></a></p>
+  <p class="resume-links"><a href="https://github.com/putuyoga" target="_blank" rel="noopener noreferrer">GitHub</a> <span aria-hidden="true">·</span> <a href="https://www.linkedin.com/in/putuyoga" target="_blank" rel="noopener noreferrer">LinkedIn</a> <span aria-hidden="true">·</span> <a href="https://stackoverflow.com/users/1419872/i-putu-yoga-permana" target="_blank" rel="noopener noreferrer">Stack Overflow</a> <span aria-hidden="true">·</span> <a href="{{ '/assets/putuyoga_2027.pdf' | prepend: site.baseurl }}" download>Full résumé / PDF <span aria-hidden="true">→</span></a></p>
 </div>
 
 <section class="resume-proof" aria-labelledby="impact">
